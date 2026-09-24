@@ -1,10 +1,10 @@
-# Lab reports and computing coursework
+55# Lab reports and computing coursework
 
 Selected experimental and computational work from my MPhys Physics degree at the University of Bath. Candidate numbers redacted.
 
 ---
 
-### [Measurement of the Linear Thermal Expansion Coefficient of Five Metals by a Capacitance Method](Measurement of the Linear Thermal Expansion Coefficient of Five Metals by a Capacitance Method.pdf)
+### [Measurement of the Linear Thermal Expansion Coefficient of Five Metals by a Capacitance Method](Measurement%of%the%Linear%Thermal%Expansion%Coefficient%of%Five%Metals%by%a%Capacitance%Method.pdf)
 *March 2026*
 
 A 50 cm rod expands roughly 0.5 mm over a 50 °C rise, too small for a mechanical gauge. A parallel-plate capacitor was used as the displacement sensor, calibrated against 1/C rather than C so the relationship is linear and admits least-squares fitting. Resolution was approximately 8.3 μm.
